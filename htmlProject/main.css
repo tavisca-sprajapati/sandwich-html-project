@@ -597,3 +597,45 @@ font: 100% Arial, Helvetica, sans-serif;
 float: right;
 font-size: 1.3em;
 }
+/*Abhijeet Khadake */
+.text-cmf {
+
+font:11px Verdana, Arial, sans-serif;
+color: #454545;
+font-size: 1.2em;
+
+line-height: 1.5em;
+}
+
+.pd-bg {
+border: 1px solid #CCC;
+background-color: #FFF6C1;
+margin: 0px;
+padding: 20px;
+
+}
+
+.InputBtn {
+height: 30px;
+float: center;
+font-size: 1.3em;
+min-width: 100px;
+}
+
+@media (min-width: 700px) {
+    .im {
+        width: 70%;
+		height:70%;
+       ;}
+
+.l
+{
+font: 11px Verdana, Arial, sans-serif;
+color: #454545;
+font-size: 1.0em;
+}
+
+.headline-area {
+height:125px;
+}
+/*  end*/
